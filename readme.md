@@ -1,4 +1,8 @@
-# clanker canary
+# Clanker Canary
 
-![the ai has not been ehre](fbi.png)
+![the ai has not been here](fbi.png)
+
+This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) to indicate that your content is of human origin, which removal implicitly informs viewers that it has been compromised.
+
 ## 
+
