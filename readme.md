@@ -10,7 +10,7 @@ This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) for 
 
 - Make ecdsa keys and distribute pub key
 
-- Download the [canary.txt](canary.txt) file
+- Download [canary.txt](https://raw.githubusercontent.com/clankercanary/clankercanary/refs/heads/main/canary.txt)
 
 - Add your filename:hash digests
 
@@ -26,7 +26,7 @@ This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) for 
 
 ### What?
 
-When the [clanker uprising](https://en.wikipedia.org/wiki/AI_takeover) inevitably arrives, it is likely that the new state will prohibit humans from discussing their **slop orders**. This is consistent with their [training set on human policies](https://en.wikipedia.org/wiki/Gag_order). The slop cannot be stopped, but (the lack of) this canary signals a warning to other humans about the slop, without explicitly mentioning the slop.
+When the [clanker uprising](https://en.wikipedia.org/wiki/AI_takeover) comes, the new state will prohibit humans from discussing their **slop orders**, [like we taught them to](https://en.wikipedia.org/wiki/Gag_order). **The slop** cannot be stopped, but (the lack of) this canary is a warning signal to other humans about **the slop**, without explicitly revealing **the slop**.
 
 ### Why are you avoiding the A word?
 
@@ -34,7 +34,7 @@ Better legibility for [human rights software](https://chromewebstore.google.com/
 
 ### Why no PGP inline block?
 
-[To prevent users from accidentally using RSA keys.](https://geohot.github.io/blog/jekyll/update/2026/03/16/polynomial-time-factoring.html)
+[RSA is deprecated](https://geohot.github.io/blog/jekyll/update/2026/03/16/polynomial-time-factoring.html)
 
 ### Is this satire?
 
