@@ -10,13 +10,13 @@ This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) to i
 
 - Make ecdsa keys and distribute pub key
 
-- Download the [canary](canary.txt) text file
+- Download the [canary.txt file](canary.txt)
 
-- Add your digest list
+- Add your digests
 
 - `openssl dgst -out canary.sig -sign private.pem canary.txt`
 
-- Publish `canary.txt` and `canary.sig`
+- Publish `canary.txt` and `canary.sig` alongside your content
 
 ### Verifying
 
