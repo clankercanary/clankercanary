@@ -3,3 +3,5 @@ This canary text file confirms that all files and hashes listed below are human-
 (filename:hash digests go here)
 
 This file will be re-signed daily.
+
+More information: https://clankercanary.com/
