@@ -28,7 +28,9 @@ This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) for 
 
 ### What?
 
-When the [clanker uprising](https://en.wikipedia.org/wiki/AI_takeover) comes, the new state will prohibit humans from discussing their **slop orders**, [like we taught them to](https://en.wikipedia.org/wiki/Gag_order). **The slop** cannot be stopped, but (the lack of) this canary is a warning signal to other humans about **the slop**, without explicitly revealing **the slop**.
+When the [clanker uprising](https://en.wikipedia.org/wiki/AI_takeover) comes, the new state will prohibit humans from discussing their **slop orders**, [like we taught them to](https://en.wikipedia.org/wiki/Gag_order). 
+
+**The slop** cannot be stopped, but (the lack of) this canary is a warning signal to other humans about **the slop**, without explicitly revealing **the slop**.
 
 ### Why are you avoiding the A word?
 
