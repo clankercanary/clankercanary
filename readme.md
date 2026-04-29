@@ -2,7 +2,7 @@
 
 ![the ai has not been here](sign.png)
 
-This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) to indicate that your content is of human origin, which when removed, implicitly informs other humans that clankers got to it.
+This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) to indicate that your content is of human origin. When removed or no longer signed, other humans are implicitly informed that the clankers got to it.
 
 ## Usage
 
