@@ -1,6 +1,6 @@
 # Clanker Canary
 
-![uh](https://img.shields.io/badge/things-fall_apart-blue?link=https%3A%2F%2Fgithub.dev%2Fclankercanary%2Fclankercanary)  ![oh](https://img.shields.io/badge/the_center-cannot_hold-red?link=https%3A%2F%2Fgithub.dev%2Fclankercanary%2Fclankercanary)
+![uh](https://img.shields.io/badge/things-fall_apart-blue)  ![oh](https://img.shields.io/badge/the_center-cannot_hold-red)
 
 This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) for your human-made content. When removed or no longer signed, other humans are implicitly notified that the clankers got to it.
 
