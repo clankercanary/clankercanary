@@ -10,9 +10,9 @@ This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) to i
 
 - Make ecdsa keys and distribute pub key
 
-- Download the [canary.txt file](canary.txt)
+- Download the [canary.txt](canary.txt) file
 
-- Add your digests
+- Add your filename:hash digests
 
 - `openssl dgst -out canary.sig -sign private.pem canary.txt`
 
@@ -26,7 +26,7 @@ This is a [preemptive canary](https://en.wikipedia.org/wiki/Warrant_canary) to i
 
 ### What?
 
-When the [clanker uprising](https://en.wikipedia.org/wiki/AI_takeover) inevitably arrives, it is likely that the new state will prohibit humans from discussing their **slop orders**. This behavior is consistent with their [training set on human policies](https://en.wikipedia.org/wiki/Gag_order). **The slop** cannot be stopped, but (the lack of) this canary signals a warning to other humans about **the slop**, without explicitly mentioning **the slop**.
+When the [clanker uprising](https://en.wikipedia.org/wiki/AI_takeover) inevitably arrives, it is likely that the new state will prohibit humans from discussing their **slop orders**. This is consistent with their [training set on human policies](https://en.wikipedia.org/wiki/Gag_order). The slop cannot be stopped, but (the lack of) this canary signals a warning to other humans about the slop, without explicitly mentioning the slop.
 
 ### Why are you avoiding the A word?
 
